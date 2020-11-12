@@ -7,6 +7,9 @@
 - [User CSS](https://chrome.google.com/webstore/detail/user-css/okpjlejfhacmgjkmknjhadmkdbcldfcb) - quick and easy way to add custom CSS to the current web site;
 - [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=ru) - easiest way to identify fonts on web pages;
 - [VisBug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc) - open source browser design tools;
-- [PerfectPixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi) - tool for design a site with pixel accuracy;
+- [PerfectPixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi) - tool to design a site with pixel accuracy;
+- [Color Picker](https://chrome.google.com/webstore/detail/color-picker/fofcbfkjpgcancidjmbkbkgfmbnnllmh) - pick a color from the page;
 - [HTML to Figma](https://chrome.google.com/webstore/detail/html-to-figma/efjcmgblfpkhbjpkpopkgeomfkokpaim) - import a web page to Figma layers;
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=ru) - React debugging tools;
+- [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd) - for debugging application's state changes;
+- [Augury](https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd) - adding tools for debugging and profiling Angular applications;
